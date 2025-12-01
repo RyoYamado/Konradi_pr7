@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Prac7</string>\
+    <string name="app">Никита</string>
+    <string name="app1">Приветствуем в нашей компании</string>
+    <string name="app2">Клик</string>
+    <string name="app4">Москва</string>
+    <string name="app3">Санкт-Петербург</string>
+    <string name="app6">Новосибирск</string>
+    <string name="app5">Владивосток</string>
+    <string name="app7">Подробная информация</string>
+    <string name="app8">Регистрация</string>
+    <string name="app9">Помощь</string>
+    <string name="app10">Вход</string>
+    <string name="app11">Введите имя</string>
+    <string name="app12">Введите фамилию</string>
+    <string name="app13">Номер</string>
+    <string name="app14">Зарегистрироваться</string>
+    <string name="app15">Согласен с условиями пользования и политикой конфеденциальности</string>
+</resources>
